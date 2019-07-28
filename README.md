@@ -9,7 +9,7 @@ We provide expert legal counsel on civil and criminal matters. Apart from this, 
 ### Members
 
 | Advocate                                   | Qualification                        | Contact        | 
-|--------------------------------------------|--------------------------------------|----------------|
+| ------------------------------------------ | ------------------------------------ | -------------- |
 | Amrutlal P Thakrani                        | B.Com., LL.B.(Special) Gold Medalist | +91 9426066640 |
 |                                            |                                      | +91 9925024900 |
 | Revantiben A Thakrani                      | B.Sc., LL.B.(Special), D.L.P.        | +91 9925020300 |
