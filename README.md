@@ -2,7 +2,8 @@
 
 Thakrani Associates is a law firm of advocates and notary, based in Vadodara Gujarat, India.
 
-We provide expert legal counsel on civil and criminal matters. Apart from this, Notary service is provided here.
+We provide expert legal counsel on civil and criminal matters as well as notary service.
+
 
 ## Members
 
