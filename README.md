@@ -1,16 +1,19 @@
-# Thakrani Associates
+# Thakrani Associates Advocates and Notary
 
 Thakrani Associates is a law firm based in Vadodara Gujarat, India.
 
-We provide expert legal counsel on civil and criminal matters. Apart from this Notary service is provided here.
+We provide expert legal counsel on civil and criminal matters. Apart from this, Notary service is provided here.
 
-## Members
-
-- Amrutlal P Thakrani ![amrutlal](src)
-- Revantiben A Thakrani ![revantiben](src)
-- Dhansukhlal P Thakrani ![dhansukhlal](src)
-- Maganlal P Thakrani ![maganlal](src)
-- Rekhaben M Thakrani ![rekhaben](src)
+### Members
+| Advocate                                   | Qualification                        | Contact        | 
+|--------------------------------------------|--------------------------------------|----------------|
+| Amrutlal P Thakrani                        | B.Com., LL.B.(Special) Gold Medalist | +91 9426066640 |
+|                                            |                                      | +91 9925024900 |
+| Revantiben A Thakrani                      | B.Sc., LL.B.(Special), D.L.P.        | +91 9925020300 |
+| Dhansukhlal P Thakrani                     | B.Com., LL.B.(Special), D.L.P.       | +91 9427353343 |
+| Maganlal P Thakrani                        | B.Com., LL.B.(Special)               | +91 9426574874 |
+|                                            |                                      | +91 9978674874 |
+| Rekhaben M Thakrani                        | B.Com., LL.B.(Special)               | +91 9512599199 |
 
 ### Address
 
