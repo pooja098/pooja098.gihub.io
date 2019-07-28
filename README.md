@@ -23,7 +23,7 @@ We provide expert legal counsel on civil and criminal matters as well as notary 
 Opposite Vandana Hospital,\
 Near Odhavpura gam,\
 Gotri Road,\
-Vadodara-390007,
+Vadodara-390007,\
 Gujarat.
 
 [View in maps](https://www.google.com/maps/place/Thakrani+Associates,+Advocates+%26+Notary/@22.3119997,73.1557155,222m/data=!3m2!1e3!4b1!4m5!3m4!1s0x395fc917917ae689:0x735780156b35111a!8m2!3d22.3119985!4d73.1562628)
