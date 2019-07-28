@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to Thakrani Associates
 
-You can use the [editor on GitHub](https://github.com/pooja098/pooja098.gihub.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thakrani Associates is a law firm based in Vadodara Gujarat, India.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Members
 
-### Markdown
+- Amrutlal P Thakrani ![amrutlal](src)
+- Revantiben A Thakrani ![revantiben](src)
+- Dhansukhlal P Thakrani ![dhansukhlal] (src)
+- Maganlal P Thakrani ![maganlal] (src)
+- Rekhaben M Thakrani ![rekhaben] (src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Address
 
-```markdown
-Syntax highlighted code block
+5, Nira Park Society,
+Opposite Vandana Hospital,
+Near Odhavpura gam,
+Gotri Road,
+Vadodara-390007,
+Gujarat.
+[maps] (https://www.google.com/maps/place/Thakrani+Associates,+Advocates+%26+Notary/@22.3119997,73.1557155,222m/data=!3m2!1e3!4b1!4m5!3m4!1s0x395fc917917ae689:0x735780156b35111a!8m2!3d22.3119985!4d73.1562628)
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pooja098/pooja098.gihub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Phone: 
+  1. (0265) 2398055
+  2. (0265) 2393565
+  
+- Email: 
+  1. thakraniassociates@gmail.com
+  2. thakraniassociates@rediffmail.com
